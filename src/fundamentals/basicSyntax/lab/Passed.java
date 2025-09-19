@@ -1,7 +1,7 @@
-package fundamentals.basicSyntax;
-import java.util.Scanner;
+package fundamentals.basicSyntax.lab;
 
-public class PassedOrFailed {
+import java.util.Scanner;
+public class Passed {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -9,8 +9,6 @@ public class PassedOrFailed {
 
         if (grade >= 3) {
             System.out.println("Passed!");
-        } else {
-            System.out.println("Failed!");
         }
     }
 }

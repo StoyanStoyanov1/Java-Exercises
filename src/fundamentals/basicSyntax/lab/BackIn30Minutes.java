@@ -1,4 +1,4 @@
-package fundamentals.basicSyntax;
+package fundamentals.basicSyntax.lab;
 import java.util.Scanner;
 
 public class BackIn30Minutes {
